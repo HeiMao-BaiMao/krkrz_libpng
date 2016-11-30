@@ -191,9 +191,6 @@
     </Lib>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="png.c" />
     <ClCompile Include="pngerror.c" />
     <ClCompile Include="pngget.c" />
